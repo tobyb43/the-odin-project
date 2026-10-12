@@ -1,0 +1,21 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.navbar {
+    background-color: rgb(182, 157, 126);
+    align-items: center;
+    padding: 0 16px;
+    height: 48px;
+    gap: 0;
+    display: flex;
+}
+.nav {
+    padding: auto;
+}
+
+
