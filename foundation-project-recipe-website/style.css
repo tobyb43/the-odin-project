@@ -4,6 +4,8 @@
     padding: 0;
     margin: 0;
     font-family: 'JetBrains Mono', monospace;
+    background-color: rgb(151, 123, 87);
+    color: aliceblue;
 }
 
 .navbar {
@@ -11,11 +13,9 @@
     align-items: center;
     padding: 0 16px;
     height: 48px;
-    gap: 0;
+    gap: 25px;
     display: flex;
 }
-.nav {
-    padding: auto;
-}
+
 
 
